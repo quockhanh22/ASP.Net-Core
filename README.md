@@ -24,6 +24,5 @@
 - Tách Layout chạy trang home.
 - Thiết kế Model và Database
 
-<p align="center">
-  <img src="C:\Users\Admin\Pictures\Saved Pictures\12.png" width="350" title="hover text">
-</p>
+![alt text](C:\Users\Admin\Pictures\Saved Pictures\12.png)
+
