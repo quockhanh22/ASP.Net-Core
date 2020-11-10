@@ -1,7 +1,9 @@
 # ASP.Net-Core
-ASP.Net-Core là web giới thiệu phim được xây dựng trên ASP.NET Core 3.1
+`ASP.Net-Core` là web giới thiệu phim được xây dựng trên `ASP.NET Core 3.1`
 
 # Tiến độ
+
+## Giới Thiệu Phim ## 
 
 **06/11/2020 :** 
 
