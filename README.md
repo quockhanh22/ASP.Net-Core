@@ -1,7 +1,9 @@
 # ASP.Net-Core
-6/11/2020
+ASP.Net-Core là web giới thiệu phim được xây dựng trên ASP.NET Core 3.1
 
-Dự án Website giới thiệu phim 
+# Tiến độ
+
+06/11/2020 : Tìm Template.
 
 Bắt đầu ngày: 09/11/2020
 
