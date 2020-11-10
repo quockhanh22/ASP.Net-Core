@@ -16,9 +16,10 @@
 
 **9/11/2020:**
 - update những phần còn thiếu.
-
 - Chức năng: thêm, sửa, xóa ...
-
 - Add, sửa giao diện.
-
 - Template Front-end.
+
+**10/11/2020:**
+- Tách Layout chạy trang home.
+- Thiết kế Model và Database
