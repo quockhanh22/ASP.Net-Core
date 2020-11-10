@@ -13,6 +13,6 @@
 
 - Chức năng: thêm, sửa, xóa ...
 
-- add giao diện.
+- Add, sửa giao diện.
 
 - Template Front-end.
