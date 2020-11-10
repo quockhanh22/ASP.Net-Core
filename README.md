@@ -1,15 +1,21 @@
-# ASP.Net-Core
-`ASP.Net-Core` là web giới thiệu phim được xây dựng trên `ASP.NET Core 3.1`
+# ASP .NET Core 3.1 Project
+- ASP .NET Core 3.1
 
-# Tiến độ
+- Entity Framework Core 3.1
 
-**06/11/2020 :** 
+# Install Packages
 
-- Tìm Template.
+- Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation
+- Microsoft.EntityFrameworkCore.SqlServer
+- Microsoft.EntityFrameworkCore.Tools
 
-**09/11/2020 :**
+# ASP.Net-Core - Project Giới thiệu phim
 
-- Update những phần còn thiếu.
+**6/11/2020:** 
+- tìm teamplate
+
+**9/11/2020:**
+- update những phần còn thiếu.
 
 - Chức năng: thêm, sửa, xóa ...
 
