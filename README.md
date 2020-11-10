@@ -5,9 +5,7 @@ ASP.Net-Core là web giới thiệu phim được xây dựng trên ASP.NET Core
 
 06/11/2020 : Tìm Template.
 
-Bắt đầu ngày: 09/11/2020
-
-Update những phần còn thiếu.
+09/11/2020 : Update những phần còn thiếu.
 
 Chức năng: thêm, sửa, xóa ...
 
