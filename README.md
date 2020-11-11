@@ -22,7 +22,7 @@
 
 **10/11/2020:**
 - Đã tách Layout chạy trang home.
-- Đã thiết kế Model và Database nhưng vẫn còn thiếu sẽ cố gắng hoàn thiện sớm.
+- Đã thiết kế Model và Database nhưng vẫn còn thiếu sẽ cố gắng hoàn thiện sớm nhất.
 
 ![edc83f18ccad32f36bbc](https://user-images.githubusercontent.com/70925582/98753947-1f5d4580-23f8-11eb-9311-7902db7a2852.jpg)
 
