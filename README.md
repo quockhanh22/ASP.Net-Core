@@ -21,8 +21,8 @@
 - Template Front-end.
 
 **10/11/2020:**
-- Tách Layout chạy trang home.
-- Thiết kế Model và Database
+- Đã tách Layout chạy trang home.
+- Đã thiết kế Model và Database nhưng vẫn còn thiếu ngày, ni sẽ hoàn thiện.
 
 ![12](https://user-images.githubusercontent.com/70925582/98694162-b6e47900-23a3-11eb-8d49-a3e87c0be5eb.png)
 
