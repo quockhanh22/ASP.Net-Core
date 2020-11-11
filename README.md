@@ -26,4 +26,9 @@
 
 ![edc83f18ccad32f36bbc](https://user-images.githubusercontent.com/70925582/98753947-1f5d4580-23f8-11eb-9311-7902db7a2852.jpg)
 
+**11/11/2020:**
+- Liên kết các trang lại với nhau nhưng có 1 trang bị lỗi hiện thị hình ảnh e sẽ cố gắng hoàn thiện nhanh nhất.
+
+
+
 
